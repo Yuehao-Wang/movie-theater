@@ -11,6 +11,7 @@ A simple movie theater demo
 * Defined a VO for converting JSON string.
 * Added code comment
 
+
 ## Features
 * Customer can make a reservation for the movie
   * And, system can calculate the ticket fee for customer's reservation
@@ -22,3 +23,14 @@ A simple movie theater demo
   * Any movies showing on 7th, you'll get 1$ discount
   * The discount amount applied only one if met multiple rules; biggest amount one
 * System can print the movie schedule with simple text & json format
+
+
+## Add jars
+* commons-beanutils-1.9.4.jar
+* commons-collections-3.2.2.jar
+* commons-lang-2.6.jar
+* commons-logging-1.2.jar
+* ezmorph-1.0.6.jar
+* json-lib-2.4-jdk15.jar
+
+

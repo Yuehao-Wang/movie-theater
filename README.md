@@ -7,7 +7,7 @@ A simple movie theater demo
 * Refactored discount logics by the strategy pattern
 * Customer extended Person class
 * Used Bigdecimal to instead double for price, discount and computing logics.
-* Added some new Unit tests for new features.
+* Added 17 new Unit tests for new features.
 * Defined a VO for converting JSON string.
 * Added code comment
 
